@@ -1,0 +1,24 @@
+.kotak {
+	width: 500px;
+	height: 400px;
+	border: 1px solid #eceff1;
+	margin: 100px auto;
+	background-color: #eaeaea;
+	border-radius: 10px;
+	background-image: url(../img/blur.jpg);
+	color: white;
+	margin-top: 50px;
+}
+.content .kotak #gambar img{
+	border-radius: 10px;
+}
+body {
+	background-image: url(../img/blur.jpg);
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#link{
+	text-decoration:none; 
+	color:white;
+}
